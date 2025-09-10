@@ -1,0 +1,28 @@
+{
+  "name": "inventoryshop",
+  "version": "1.0.0",
+  "description": "Full-stack inventory management system with optimized integration",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js",
+    "test": "echo \"Tests would go here\" && exit 0"
+  },
+  "keywords": [
+    "inventory",
+    "management",
+    "fullstack",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Student",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

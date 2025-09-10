@@ -1,6 +1,10 @@
-# InventoryShop - Full-Stack Integration Project
+# InventoryShop - Full Stack Integration Project
 
-A complete inventory management system demonstrating seamless front-end and back-end integration with optimized performance.
+<div align="center">
+  <img width="85%" alt="Full Stack Integration Project Screenshot" src="https://github.com/user-attachments/assets/15d352c5-2564-4e8c-914a-e440d9c800d8" />
+</div>
+
+A complete inventory management system demonstrating seamless front end and back end integration with optimized performance.
 
 ## Project Structure
 
@@ -27,9 +31,9 @@ inventoryshop/
 
 ## Features
 
-- Real-time inventory tracking
+- Real time inventory tracking
 - RESTful API with JSON communication
-- Performance-optimized queries
+- Performance optimized queries
 - Error handling and validation
 - Responsive UI design
 - Efficient caching mechanisms
@@ -58,8 +62,8 @@ inventoryshop/
 
 ## Integration Features
 
-- Seamless front-end to back-end communication
+- Seamless front-end to backend communication
 - Optimized JSON data structures
 - Error handling and debugging capabilities
 - Performance optimizations with caching
-- Real-time updates without page refresh
+- Real time updates without page refresh
